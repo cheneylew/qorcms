@@ -6,10 +6,10 @@ import (
 	"github.com/qor/banner_editor"
 	"github.com/qor/help"
 	"github.com/qor/media/asset_manager"
-	"github.com/qor/qor-example/app/models"
-	"github.com/qor/qor-example/config/admin"
-	"github.com/qor/qor-example/config/seo"
-	"github.com/qor/qor-example/db"
+	"github.com/cheneylew/qorcms/app/models"
+	"github.com/cheneylew/qorcms/config/admin"
+	"github.com/cheneylew/qorcms/config/seo"
+	"github.com/cheneylew/qorcms/db"
 	"github.com/qor/transition"
 )
 

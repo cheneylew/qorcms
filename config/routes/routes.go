@@ -12,11 +12,11 @@ import (
 	"github.com/qor/qor/utils"
 	"github.com/qor/wildcard_router"
 
-	"github.com/qor/qor-example/app/controllers"
-	"github.com/qor/qor-example/config"
-	"github.com/qor/qor-example/config/admin/bindatafs"
-	"github.com/qor/qor-example/config/auth"
-	"github.com/qor/qor-example/db"
+	"github.com/cheneylew/qorcms/app/controllers"
+	"github.com/cheneylew/qorcms/config"
+	"github.com/cheneylew/qorcms/config/admin/bindatafs"
+	"github.com/cheneylew/qorcms/config/auth"
+	"github.com/cheneylew/qorcms/db"
 )
 
 var rootMux *http.ServeMux

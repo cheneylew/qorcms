@@ -3,9 +3,9 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/qor/qor-example/app/models"
-	"github.com/qor/qor-example/config"
-	"github.com/qor/qor-example/config/utils"
+	"github.com/cheneylew/qorcms/app/models"
+	"github.com/cheneylew/qorcms/config"
+	"github.com/cheneylew/qorcms/config/utils"
 )
 
 func CategoryShow(w http.ResponseWriter, req *http.Request) {

@@ -5,7 +5,7 @@ import (
 
 	"github.com/qor/admin"
 
-	"github.com/qor/qor-example/app/models"
+	"github.com/cheneylew/qorcms/app/models"
 )
 
 type Charts struct {

@@ -4,8 +4,8 @@ import (
 	"github.com/qor/filebox"
 	"github.com/qor/roles"
 
-	"github.com/qor/qor-example/config"
-	"github.com/qor/qor-example/config/auth"
+	"github.com/cheneylew/qorcms/config"
+	"github.com/cheneylew/qorcms/config/auth"
 )
 
 var Filebox *filebox.Filebox

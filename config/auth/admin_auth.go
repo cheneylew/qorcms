@@ -7,7 +7,7 @@ import (
 	"github.com/qor/qor"
 	"github.com/qor/roles"
 
-	"github.com/qor/qor-example/app/models"
+	"github.com/cheneylew/qorcms/app/models"
 )
 
 func init() {

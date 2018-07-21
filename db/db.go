@@ -15,7 +15,7 @@ import (
 	"github.com/qor/sorting"
 	"github.com/qor/validations"
 
-	"github.com/qor/qor-example/config"
+	"github.com/cheneylew/qorcms/config"
 )
 
 var (

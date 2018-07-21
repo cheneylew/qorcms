@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/qor/qor"
-	"github.com/qor/qor-example/config"
+	"github.com/cheneylew/qorcms/config"
 	"github.com/qor/qor/utils"
 )
 

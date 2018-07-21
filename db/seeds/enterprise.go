@@ -12,7 +12,7 @@ import (
 	"enterprise.getqor.com/microsite"
 	"enterprise.getqor.com/promotion"
 	"github.com/fatih/color"
-	"github.com/qor/qor-example/config/admin"
+	"github.com/cheneylew/qorcms/config/admin"
 )
 
 /* How to run this script

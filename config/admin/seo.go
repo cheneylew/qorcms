@@ -4,8 +4,8 @@ import (
 	"github.com/qor/admin"
 	qor_seo "github.com/qor/seo"
 
-	"github.com/qor/qor-example/app/models"
-	"github.com/qor/qor-example/config/seo"
+	"github.com/cheneylew/qorcms/app/models"
+	"github.com/cheneylew/qorcms/config/seo"
 )
 
 func initSeo() {

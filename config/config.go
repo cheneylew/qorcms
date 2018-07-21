@@ -53,7 +53,7 @@ var Config = struct {
 }{}
 
 var (
-	Root         = os.Getenv("GOPATH") + "/src/github.com/qor/qor-example"
+	Root         = os.Getenv("GOPATH") + "/src/github.com/cheneylew/qorcms"
 	View         *render.Render
 	Mailer       *mailer.Mailer
 	RedirectBack = redirect_back.New(&redirect_back.Config{

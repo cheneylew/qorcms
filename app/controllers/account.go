@@ -6,11 +6,11 @@ import (
 
 	// "github.com/qor/action_bar"
 	// "github.com/qor/qor"
-	"github.com/qor/qor-example/app/models"
-	"github.com/qor/qor-example/config"
-	"github.com/qor/qor-example/config/utils"
-	// "github.com/qor/qor-example/config/admin"
-	// "github.com/qor/qor-example/config/seo"
+	"github.com/cheneylew/qorcms/app/models"
+	"github.com/cheneylew/qorcms/config"
+	"github.com/cheneylew/qorcms/config/utils"
+	// "github.com/cheneylew/qorcms/config/admin"
+	// "github.com/cheneylew/qorcms/config/seo"
 )
 
 func AccountShow(w http.ResponseWriter, req *http.Request) {

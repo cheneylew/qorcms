@@ -6,10 +6,10 @@ import (
 	"github.com/go-chi/chi"
 	"github.com/jinzhu/gorm"
 	"github.com/qor/l10n"
-	"github.com/qor/qor-example/app/models"
-	"github.com/qor/qor-example/config/admin"
-	"github.com/qor/qor-example/config/auth"
-	"github.com/qor/qor-example/db"
+	"github.com/cheneylew/qorcms/app/models"
+	"github.com/cheneylew/qorcms/config/admin"
+	"github.com/cheneylew/qorcms/config/auth"
+	"github.com/cheneylew/qorcms/db"
 	"github.com/qor/qor/utils"
 )
 

@@ -10,7 +10,7 @@ import (
 	"github.com/jinzhu/configor"
 	"github.com/qor/publish2"
 
-	"github.com/qor/qor-example/db"
+	"github.com/cheneylew/qorcms/db"
 )
 
 var Fake *faker.Faker

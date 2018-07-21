@@ -4,8 +4,8 @@ import (
 	"github.com/qor/admin"
 	"github.com/qor/qor"
 
-	"github.com/qor/qor-example/app/models"
-	"github.com/qor/qor-example/db"
+	"github.com/cheneylew/qorcms/app/models"
+	"github.com/cheneylew/qorcms/db"
 )
 
 var API *admin.Admin
